@@ -7,6 +7,10 @@ A Python-based project for analyzing movie ratings, tags, and genres using panda
 - `rating.csv`
 - `tag.csv`
 
+Download the dataset
+
+<https://drive.google.com/file/d/1NQVr-IC9LrLNKMoRimuro0tvIX0atnCK/view?usp=sharing>
+
 ## 🚀 Features
 
 - Load and explore real movie rating data
